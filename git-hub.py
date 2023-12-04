@@ -1,1 +1,2 @@
-print("This simple code will be pushed to git.")
+print("This simple code has been pushed to git.")
+print("This code will be pulled from git.")
